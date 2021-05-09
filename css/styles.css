@@ -3628,6 +3628,7 @@ input[type=button].btn-block {
   color: #6c757d;
   background-color: #e9ecef;
 }
+
 .custom-select::-ms-expand {
   display: none;
 }
@@ -10135,16 +10136,17 @@ img::-moz-selection {
     margin-right: 0;
   }
 }
+
+
 header.masthead {
   padding-top: 10.5rem;
-  padding-bottom: 2rem;
+  padding-bottom: 6rem;
   text-align: center;
   color: #fff;
   background-image: url("../assets/img/header-bg3.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  -webkit-backdrop-filter: blur(3px);
   background-size: cover;
 }
 header.masthead .masthead-subheading {
